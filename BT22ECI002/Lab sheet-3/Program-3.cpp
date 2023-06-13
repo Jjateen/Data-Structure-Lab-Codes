@@ -100,7 +100,7 @@ int main() {
 	int i;
         system("CLS");
         cout<<"\t\t\t===========================================\n";
-		cout<<"\t\t\t|         Stack Management System         |\n";
+		cout<<"\t\t\t|    Circular Queue Management System     |\n";
 		cout<<"\t\t\t===========================================\n";
 		cout<<"\t\t\t|                                         |"
             <<"\n\t\t\t| Enter <1> Enqueue Data                  |"
